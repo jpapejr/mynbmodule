@@ -1,6 +1,6 @@
 {
   "mynbmodule": {
     "Overview": "/",
-    "module name here": "core.html"
+    "mynbmodule": "core.html"
   }
 }
